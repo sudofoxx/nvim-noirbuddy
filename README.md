@@ -1,3 +1,8 @@
+# FORK
+
+Fork adds dark, dark+, and light colourschemes from the [Monochromator](https://codeberg.org/beem/monochromator) VS Code theme
+
+
 # Noirbuddy
 
 A highly customizable minimalist theme building framework for Neovim 🖤
