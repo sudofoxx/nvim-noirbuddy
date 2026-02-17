@@ -1,6 +1,6 @@
 # FORK
 
-Fork adds dark, dark+, and light colourschemes from the [Monochromator](https://codeberg.org/beem/monochromator) VS Code theme
+The fork adds dark, dark+, and light colourschemes from the [Monochromator](https://codeberg.org/beem/monochromator) VS Code theme
 
 
 # Noirbuddy
